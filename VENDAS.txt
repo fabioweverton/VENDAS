@@ -1,0 +1,8 @@
+125.50
+75.00
+450.75
+220
+# Essa linha é um comentário
+150.00
+um erro de digitação
+30.25
